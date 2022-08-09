@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Timing-React/static/css/main.379d70d0.css",
+    "main.js": "/Timing-React/static/js/main.b29557d0.js",
+    "index.html": "/Timing-React/index.html",
+    "main.379d70d0.css.map": "/Timing-React/static/css/main.379d70d0.css.map",
+    "main.b29557d0.js.map": "/Timing-React/static/js/main.b29557d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.379d70d0.css",
+    "static/js/main.b29557d0.js"
+  ]
+}
